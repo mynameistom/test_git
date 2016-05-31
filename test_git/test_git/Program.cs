@@ -11,6 +11,7 @@ namespace test_git
         static void Main(string[] args)
         {
             Console.WriteLine("Hello  Word   Git");
+            Console.WriteLine("This   A    New  Git");
         }
     }
 }
