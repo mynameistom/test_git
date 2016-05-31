@@ -10,6 +10,7 @@ namespace test_con_git
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("123213213");
         }
     }
 }
