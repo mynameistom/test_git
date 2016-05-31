@@ -11,6 +11,7 @@ namespace test_con_git
         static void Main(string[] args)
         {
             Console.WriteLine("123213213");
+            Console.WriteLine("2222222222");
         }
     }
 }
